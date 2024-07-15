@@ -1,3 +1,1 @@
-n = 100 
-for i in range(n):
-    print( "g") 
+print( "hello world")
